@@ -191,7 +191,17 @@
             <version>${version.jboss.bom}</version>
             <type>pom</type>
             <scope>import</scope>
-        </dependency>
+        </dependency><dependency>
+			<groupId>br.com.progolden</groupId>
+			<artifactId>dne-utils</artifactId>
+			<version>1.0.0-RC4</version>
+			<exclusions>
+				<exclusion>
+					<artifactId>hibernate-jpa-2.0-api</artifactId>
+					<groupId>org.hibernate.javax.persistence</groupId>
+				</exclusion>
+			</exclusions>
+		</dependency>
 	  	<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
