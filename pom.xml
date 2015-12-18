@@ -3,7 +3,7 @@
 
   <groupId>br.com.progolden</groupId>
   <artifactId>parent</artifactId>
-  <version>1.3</version>
+  <version>1.4-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Parent POM</name>
@@ -31,7 +31,7 @@
     <connection>scm:git:git@github.com:progolden/parent-pom.git</connection>
     <developerConnection>scm:git:git@github.com:progolden/parent-pom.git</developerConnection>
     <url>https://github.com/progolden/parent-pom</url>
-    <tag>v1.3</tag>
+    <tag>HEAD</tag>
   </scm>
   
   <developers>

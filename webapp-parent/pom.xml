@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>br.com.progolden</groupId>
 		<artifactId>parent</artifactId>
-		<version>1.3</version>
+		<version>1.4-SNAPSHOT</version>
 	</parent>
 
 	<name>Parent POM for Webapps</name>
