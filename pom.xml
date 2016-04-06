@@ -3,7 +3,7 @@
 
   <groupId>br.com.progolden</groupId>
   <artifactId>parent</artifactId>
-  <version>1.4-SNAPSHOT</version>
+  <version>1.4</version>
   <packaging>pom</packaging>
 
   <name>Parent POM</name>
